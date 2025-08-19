@@ -1,0 +1,197 @@
+[
+  {
+    "nama": "aaravb.chrome-extension-developer-tools",
+    "versi": "2.1.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=aaravb.chrome-extension-developer-tools"
+  },
+  {
+    "nama": "adpyke.codesnap",
+    "versi": "1.3.4",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap"
+  },
+  {
+    "nama": "cirlorm.mobileview",
+    "versi": "0.0.7",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=cirlorm.mobileview"
+  },
+  {
+    "nama": "coolspy3.hmmm-language-support",
+    "versi": "2.0.4",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=coolspy3.hmmm-language-support"
+  },
+  {
+    "nama": "dadroit.dadroit-json-generator",
+    "versi": "1.2.2",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=dadroit.dadroit-json-generator"
+  },
+  {
+    "nama": "esbenp.prettier-vscode",
+    "versi": "11.0.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode"
+  },
+  {
+    "nama": "github.copilot",
+    "versi": "1.350.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=github.copilot"
+  },
+  {
+    "nama": "github.copilot-chat",
+    "versi": "0.29.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=github.copilot-chat"
+  },
+  {
+    "nama": "jshaman20230802.jshaman-javascript-obfuscator",
+    "versi": "0.0.3",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=jshaman20230802.jshaman-javascript-obfuscator"
+  },
+  {
+    "nama": "marceloxp.statusbartext",
+    "versi": "0.0.3",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=marceloxp.statusbartext"
+  },
+  {
+    "nama": "mechatroner.rainbow-csv",
+    "versi": "3.20.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv"
+  },
+  {
+    "nama": "moozzyk.arduino",
+    "versi": "0.0.4",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=moozzyk.arduino"
+  },
+  {
+    "nama": "ms-python.debugpy",
+    "versi": "2025.10.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-python.debugpy"
+  },
+  {
+    "nama": "ms-python.python",
+    "versi": "2025.10.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-python.python"
+  },
+  {
+    "nama": "ms-python.vscode-pylance",
+    "versi": "2025.7.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance"
+  },
+  {
+    "nama": "ms-python.vscode-python-envs",
+    "versi": "1.2.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-python-envs"
+  },
+  {
+    "nama": "ms-toolsai.jupyter",
+    "versi": "2025.6.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter"
+  },
+  {
+    "nama": "ms-toolsai.jupyter-keymap",
+    "versi": "1.1.2",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-keymap"
+  },
+  {
+    "nama": "ms-toolsai.jupyter-renderers",
+    "versi": "1.3.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter-renderers"
+  },
+  {
+    "nama": "ms-toolsai.vscode-jupyter-cell-tags",
+    "versi": "0.1.9",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-cell-tags"
+  },
+  {
+    "nama": "ms-toolsai.vscode-jupyter-slideshow",
+    "versi": "0.1.6",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-toolsai.vscode-jupyter-slideshow"
+  },
+  {
+    "nama": "ms-vscode-remote.remote-wsl",
+    "versi": "0.99.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl"
+  },
+  {
+    "nama": "ms-vscode.cmake-tools",
+    "versi": "1.21.36",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cmake-tools"
+  },
+  {
+    "nama": "ms-vscode.cpptools",
+    "versi": "1.26.3",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools"
+  },
+  {
+    "nama": "ms-vscode.cpptools-extension-pack",
+    "versi": "1.3.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-extension-pack"
+  },
+  {
+    "nama": "ms-vscode.cpptools-themes",
+    "versi": "2.0.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools-themes"
+  },
+  {
+    "nama": "ms-vscode.live-server",
+    "versi": "0.4.15",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server"
+  },
+  {
+    "nama": "pkief.material-icon-theme",
+    "versi": "5.24.0",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=pkief.material-icon-theme"
+  },
+  {
+    "nama": "pnp.polacode",
+    "versi": "0.3.4",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=pnp.polacode"
+  },
+  {
+    "nama": "redhat.java",
+    "versi": "1.43.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=redhat.java"
+  },
+  {
+    "nama": "ritwickdey.liveserver",
+    "versi": "5.7.9",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver"
+  },
+  {
+    "nama": "sdras.night-owl",
+    "versi": "2.1.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=sdras.night-owl"
+  },
+  {
+    "nama": "tht13.html-preview-vscode",
+    "versi": "0.2.5",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=tht13.html-preview-vscode"
+  },
+  {
+    "nama": "tock.vscode-css-custom-properties",
+    "versi": "0.0.5",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=tock.vscode-css-custom-properties"
+  },
+  {
+    "nama": "twxs.cmake",
+    "versi": "0.0.17",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=twxs.cmake"
+  },
+  {
+    "nama": "utsavm9.c-cpp-flag-debugging",
+    "versi": "0.0.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=utsavm9.c-cpp-flag-debugging"
+  },
+  {
+    "nama": "vscjava.vscode-java-debug",
+    "versi": "0.58.2",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-debug"
+  },
+  {
+    "nama": "vscjava.vscode-java-test",
+    "versi": "0.43.1",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=vscjava.vscode-java-test"
+  },
+  {
+    "nama": "yandeu.five-server",
+    "versi": "0.3.9",
+    "tautan_marketplace": "https://marketplace.visualstudio.com/items?itemName=yandeu.five-server"
+  }
+]
